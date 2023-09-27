@@ -47,7 +47,7 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 <p>
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
    <a href="#"><img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
-      <a href="#"><img alt="Nextjs" src="https://img.shields.io/badge/Nextjs%20-%2320232a.svg?logo=nextjs&logoColor=%2361DAFB"></a> <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
+      <a href="#"><img alt="Nextjs" src="https://img.shields.io/badge/Next.js%20-%2320232a.svg?logo=next.js&logoColor=%2361DAFB"></a> <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
